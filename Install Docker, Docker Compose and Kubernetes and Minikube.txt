@@ -20,7 +20,7 @@ next class
 
 docker --version 
 docker-compose version 
-minikube version		in VM Kubeadm 
+minikube version		in VM Kubeadm 		Cluster can be minikube or kubeadm 
 kubectl version 
 
 
